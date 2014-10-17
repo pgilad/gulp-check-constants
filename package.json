@@ -1,0 +1,46 @@
+{
+  "name": "gulp-check-constants",
+  "version": "0.1.0",
+  "description": "Find numbers that should be extracted as a declaration statement",
+  "license": "MIT",
+  "repository": "pgilad/gulp-check-constants",
+  "homepage": "https://github.com/pgilad/gulp-check-constants",
+  "bugs": "https://github.com/pgilad/gulp-check-constants/issues",
+  "author": {
+    "name": "Gilad Peleg",
+    "email": "giladp007@gmail.com",
+    "url": "https://github.com/pgilad"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec ./tests/*.js",
+    "watch": "mocha -R spec -w ./tests/*.js"
+  },
+  "files": [
+    "index.js",
+    "LICENSE.md"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "check-constants",
+    "js",
+    "code",
+    "style",
+    "validate",
+    "constants",
+    "check",
+    "checker"
+  ],
+  "dependencies": {
+    "check-constants": "^0.6.0",
+    "gulp-util": "^3.0.1",
+    "lodash.assign": "^2.4.1",
+    "through2": "^0.6.3"
+  },
+  "devDependencies": {
+    "expect.js": "*",
+    "mocha": "*"
+  }
+}
