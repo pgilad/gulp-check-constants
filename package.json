@@ -34,7 +34,7 @@
     "checker"
   ],
   "dependencies": {
-    "check-constants": "^0.6.0",
+    "check-constants": "^0.6.1",
     "gulp-util": "^3.0.1",
     "lodash.assign": "^2.4.1",
     "through2": "^0.6.3"
