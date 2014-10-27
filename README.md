@@ -46,4 +46,4 @@ except for `file` which is handled for you.
 
 ## License
 
-MIT ©2014 **Gilad Peleg**
+MIT @[Gilad Peleg](http://giladpeleg.com)
