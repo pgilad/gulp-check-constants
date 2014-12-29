@@ -1,6 +1,6 @@
 {
   "name": "gulp-check-constants",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Find numbers that should be extracted as a declaration statement",
   "license": "MIT",
   "repository": "pgilad/gulp-check-constants",
