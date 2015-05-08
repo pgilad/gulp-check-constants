@@ -32,10 +32,10 @@
     "checker"
   ],
   "dependencies": {
-    "check-constants": "^1.1.0",
-    "gulp-util": "^3.0.3",
-    "lodash.assign": "^3.0.0",
-    "through2": "^0.6.3"
+    "check-constants": "^1.2.0",
+    "gulp-util": "^3.0.4",
+    "lodash.assign": "^3.1.0",
+    "through2": "^0.6.5"
   },
   "devDependencies": {
     "expect.js": "*",
