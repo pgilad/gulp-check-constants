@@ -32,9 +32,9 @@
     "checker"
   ],
   "dependencies": {
-    "check-constants": "^1.2.0",
+    "check-constants": "^1.2.1",
     "gulp-util": "^3.0.4",
-    "lodash.assign": "^3.1.0",
+    "lodash.assign": "^3.2.0",
     "through2": "^0.6.5"
   },
   "devDependencies": {
